@@ -6,13 +6,13 @@
 - 期望岗位: NLP算法工程师
 - GitHub: [https://github.com/NicholasCao](https://github.com/NicholasCao)
 
----
+<!-- --- -->
 
 ### 教育背景
 - 2021.09-2024.06: 华南理工大学 | 软件工程 | 硕士
 - 2017.09-2021.06: 深圳大学 | 电子信息工程 | 学士
 
----
+<!-- --- -->
 
 ### 实习经历
 - 2022-10 至今 阿里云-PAI团队
@@ -22,7 +22,7 @@
 
   - X-STA:
     - 跨语言机器阅读理解任务，基于知识共享、教导和对齐三个原则，提出了一种梯度分解的知识共享技术来传输语言表征。并使用输出校准和语义对齐来进一步利用来提高模型的跨语言转移能力。在三个跨语言MRC数据集上取得新的SOTA。
-    - Sharing, Teaching and Aligning: Knowledgeable Transfer Learning for Cross-Lingual Machine Reading Comprehension [EMNLP 2023 在投]
+    - [Sharing, Teaching and Aligning: Knowledgeable Transfer Learning for Cross-Lingual Machine Reading Comprehension](https://nicholascao.github.io/Assets/papers/X-STA.pdf) [EMNLP 2023 在投]
 
 - 2021-04 ~ 2021-06 腾讯IEG-光子工作室
 
@@ -41,7 +41,7 @@
 
   基于BLOOM（17亿参数）微调的中英双语对话模型，可以表现出不俗的能力，模型上传到[Hugging Face](https://huggingface.co/nicholascao/chatbloom-1b7-sft)。
 - [Goa](https://github.com/goa-go/goa):
-  基于中间件的轻量级golang web框架，benchmark测试可比肩golang主流框架，详情可查阅[https://goa-go.github.io](https://goa-go.github.io).
+  基于中间件的轻量级golang web框架，benchmark测试可比肩golang主流框架，详情可查阅[文档](https://goa-go.github.io).
 - [MVVM前端框架](https://github.com/nicholascao/mvvm):
   类Vue的前端框架实现了数据监听、视图模块解析、表达式解析等以及vue中的常用指令。
 
