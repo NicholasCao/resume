@@ -28,14 +28,13 @@
 - 2022.10 ~ 2023.10 阿里云-PAI团队 `实习`
   - **BeautifulPrompt**: 基于SFT和RLAIF微调bloom-1b1实现text-to-image的prompt优化，效果比肩商用PromptPerfect。云栖大会展出，开源模型月下载量上万。产出论文：[BeautifulPrompt](https://arxiv.org/abs/2311.06752) `EMNLP 2023 Industry`
   - **Attention理解&图像编辑**: 设计探针实验证明注意力图携带语义信息，应用到无需训练的文生图编辑取得SOTA。产出论文：[Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Towards_Understanding_Cross_and_Self-Attention_in_Stable_Diffusion_for_Text-Guided_CVPR_2024_paper.pdf) `CVPR 2024`
-  - **X-STA**: 提出梯度分解知识共享技术，结合输出校准与语义对齐提升跨语言MRC转移能力，三个数据集SOTA。产出论文：[Sharing, Teaching and Aligning](https://arxiv.org/abs/2311.06758) `EMNLP 2023`
 
 - 2019.07 ~ 2019.09 & 2021.04 ~ 2021.06 腾讯（PCG-腾讯文档、IEG-光子工作室）`实习`
 
 ### 量化交易经历
-- **A股多策略实盘**（2025.01至今，实盘超半年，年化约30%）：
+- **A股多策略实盘**（实盘超半年，年化约30%）：
   - 四策略融合（价投PB+ROA / 残差因子+小市值 / ETF动量R²轮动 / 红利低波），各策略资金隔离独立运行，XGBoost/SVR因子合成
-- **美股专家共振因子**：抓取多个大V专家发言，通过LLM分析，将看多同一标的形成共振信号，作为辅助因子提高交易胜率
+- **美股专家共振因子**：抓取多个大V专家发言，通过LLM分析，将同时看多同一标的形成共振信号，作为辅助因子提高交易胜率
 
 ### 竞赛&获奖
 - 第一届粤港澳大湾区国际算法算例大赛-预训练语言模型应用调优算法（奖金池100W）- 第一名:
